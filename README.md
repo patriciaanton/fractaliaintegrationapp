@@ -17,3 +17,5 @@ Este proyecto es una Web API desarrollada en **.NET 10 / .NET Core** que actúa 
    ```bash
    dotnet build
    dotnet run
+
+Abrir el navegador en la ruta local de Swagger para probar los endpoints expuestos de forma interactiva (ej. http://localhost:5174/swagger/index.html).
