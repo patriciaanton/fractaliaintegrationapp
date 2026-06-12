@@ -19,3 +19,9 @@ Este proyecto es una Web API desarrollada en **.NET 10 / .NET Core** que actúa 
    dotnet run
 
 Abrir el navegador en la ruta local de Swagger para probar los endpoints expuestos de forma interactiva (ej. http://localhost:5174/swagger/index.html).
+
+## Prueba de Funcionamiento (Prueba Local con Swagger)
+
+Aquí se puede observar el resultado exitoso (200 OK) al consumir el endpoint `/api/Partners`, donde el sistema realiza la autenticación automática en segundo plano y mapea los datos correctamente:
+
+![Prueba Exitosa con Swagger](img/prueba-exito.png)
